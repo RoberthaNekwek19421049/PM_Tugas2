@@ -73,7 +73,7 @@
             android:layout_weight="1"
             android:gravity="right"
             android:textSize="18dp"
-            android:text="Don't Have an Account?" />
+            android:text="Tidak Punya Akun?" />
 
         <TextView
             android:id="@+id/textRegister"
